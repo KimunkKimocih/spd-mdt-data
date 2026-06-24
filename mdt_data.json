@@ -1,12 +1,40 @@
 {
   "PN_List": {
-    "Tyler Bancroft": "1515623464411856957",
-    "Kim Daegeon": "1515595211248631918"
+    "LS": {
+      "Tyler Bancroft": "threadid_tyler_LS",
+      "Kim Daegeon": "threadid_kim_LS",
+      "John Doe": "threadid_john_LS"
+    },
+    "SF": {
+      "Tyler Bancroft": "threadid_tyler_LS",
+      "Kim Daegeon": "threadid_kim_LS",
+      "John Doe": "threadid_john_LS"
+    },
+    "LV": {
+      "Tyler Bancroft": "threadid_tyler_LS",
+      "Kim Daegeon": "threadid_kim_LS",
+      "John Doe": "threadid_john_LS"
+    }
   },
+  
   "AR_List": {
-    "Edmund Pevensie": "1519171015685443704",
-    "Kim Daegeon": "1515595211248631918"
+    "LS": {
+      "Tyler Bancroft": "threadid_tyler_LS",
+      "Kim Daegeon": "threadid_kim_LS",
+      "John Doe": "threadid_john_LS"
+    },
+    "SF": {
+      "Tyler Bancroft": "threadid_tyler_LS",
+      "Kim Daegeon": "threadid_kim_LS",
+      "John Doe": "threadid_john_LS"
+    },
+    "LV": {
+      "Tyler Bancroft": "threadid_tyler_LS",
+      "Kim Daegeon": "threadid_kim_LS",
+      "John Doe": "threadid_john_LS"
+    }
   },
+  
   "arrest": [
     {"nomor": "SAPC 1A4", "judul": "Driving on pedestrian walk, which is taking thier right.", "fine": 500, "jail": 40, "note": "-"},
     {"nomor": "SAPC 1A5", "judul": "Excessive use of horn it may distrubing other drivers.", "fine": 500, "jail": 40, "note": "-"},
