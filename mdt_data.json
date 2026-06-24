@@ -6,17 +6,16 @@
       "John Doe": "threadid_john_LS"
     },
     "SF": {
-      "Tyler Bancroft": "threadid_tyler_LS",
-      "Kim Daegeon": "threadid_kim_LS",
-      "John Doe": "threadid_john_LS"
+      "Tyler Bancroft": "threadid_tyler_SF",
+      "Kim Daegeon": "threadid_kim_SF",
+      "John Doe": "threadid_john_SF"
     },
     "LV": {
-      "Tyler Bancroft": "threadid_tyler_LS",
-      "Kim Daegeon": "threadid_kim_LS",
-      "John Doe": "threadid_john_LS"
+      "Tyler Bancroft": "threadid_tyler_LV",
+      "Kim Daegeon": "threadid_kim_LV",
+      "John Doe": "threadid_john_LV"
     }
   },
-  
   "AR_List": {
     "LS": {
       "Tyler Bancroft": "threadid_tyler_LS",
@@ -24,17 +23,16 @@
       "John Doe": "threadid_john_LS"
     },
     "SF": {
-      "Tyler Bancroft": "threadid_tyler_LS",
-      "Kim Daegeon": "threadid_kim_LS",
-      "John Doe": "threadid_john_LS"
+      "Tyler Bancroft": "threadid_tyler_SF",
+      "Kim Daegeon": "threadid_kim_SF",
+      "John Doe": "threadid_john_SF"
     },
     "LV": {
-      "Tyler Bancroft": "threadid_tyler_LS",
-      "Kim Daegeon": "threadid_kim_LS",
-      "John Doe": "threadid_john_LS"
+      "Tyler Bancroft": "threadid_tyler_LV",
+      "Kim Daegeon": "threadid_kim_LV",
+      "John Doe": "threadid_john_LV"
     }
   },
-  
   "arrest": [
     {"nomor": "SAPC 1A4", "judul": "Driving on pedestrian walk, which is taking thier right.", "fine": 500, "jail": 40, "note": "-"},
     {"nomor": "SAPC 1A5", "judul": "Excessive use of horn it may distrubing other drivers.", "fine": 500, "jail": 40, "note": "-"},
@@ -59,7 +57,7 @@
     {"nomor": "SAPC 1H3", "judul": "A driver who parked in Government's buildings compound.", "fine": 850, "jail": 0, "note": "Impound"},
     {"nomor": "SAPC 1H4", "judul": "A driver who parked in a 10 meter area of a 'No Parking' sign.", "fine": 850, "jail": 0, "note": "Impound"},
     {"nomor": "SAPC 1H5", "judul": "A driver who parked on a highway road.", "fine": 850, "jail": 0, "note": "Impound"},
-    {"nomor": "SAPC 1H6", "judul": "A driver who parked on a sidewalk road.", "fine": 850, "jail": 0, "note": "Impound"},    
+    {"nomor": "SAPC 1H6", "judul": "A driver who parked on a sidewalk road.", "fine": 850, "jail": 0, "note": "Impound"},
     {"nomor": "SAPC 1I1", "judul": "A nitro/N20/nos injection.", "fine": 850, "jail": 0, "note": "Impound"},
     {"nomor": "SAPC 1I2", "judul": "Tinted the front's view of vehicles (driver's seat).", "fine": 850, "jail": 0, "note": "Impound"},
     {"nomor": "SAPC 1I3", "judul": "Plate frame that can cover the plate.", "fine": 850, "jail": 0, "note": "Impound"},
