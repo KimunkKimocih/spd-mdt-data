@@ -1,36 +1,73 @@
 {
-  "PN_List": {
-    "LS": {
-      "Edmund Berchwath": "1521425114615386172",
-      "Kim Daegeon": "threadid_kim_LS",
-      "John Doe": "threadid_john_LS"
+  "AR_webhooks": {
+    "LSPD": "https://discord.com/api/webhooks/1519186854052757594/MzfMbv45ywtwCkYsyn0ggPsYXBVv7RbROFGwMJpbTz2bfjAKrckQDbsOoAp9EHwnzBRw",
+    "SFPD": "https://discord.com/api/webhooks/...",
+    "LVPD": "https://discord.com/api/webhooks/...",
+    "SASP": "https://discord.com/api/webhooks/1519171049357574235/nTmxonLOt6FgT4JA3TXWx18r2x3q_j5Jrkr0GpJ25CXXKmyqIvwy-tbvRKIbwT5eFyqO",
+    "LSSD": "https://discord.com/api/webhooks/1519187004661956768/PMCcE1hYwPXBdyw6wxBwBXPLSnvmN52vRR17RhFY2S-0_VeZYK54MDwtQXWsvhRNPtjT"
+  },
+  "PN_webhooks": {
+    "LSPD": "https://discord.com/api/webhooks/1519194201219272744/0-7_uNMy6MD1RZp64MDkD0LS3RUto2rO05vG_HOVVbywAnPECeLunqmnP9ko3emb0j3l",
+    "SFPD": "https://discord.com/api/webhooks/...",
+    "LVPD": "https://discord.com/api/webhooks/...",
+    "SASP": "https://discord.com/api/webhooks/1519193994998054982/MRq7xLf16h8NWOlKF-Ezesv4SDCkWAlg8rOg7T4QLGp1jfOuEudLaZFyK0KTA9QC5o90",
+    "LSSD": "https://discord.com/api/webhooks/1519194377199550575/Q0Y3gdjHc0xUvQdSxEO7yowKD9vLTG-TYJ0N_ZKpsVoqv66pQ6tDYgyeEM65PcV3BNOk"
+  },
+  "CR_webhook":  "https://discord.com/api/webhooks/1521449967397507102/RLkq0Bmi-aVKJwwLaPql9pz_XKNfKn7aETp2jkMaRnG0EplhUWzO7li-9X76LOvDhDmE",
+  "WR_webhook":  "https://discord.com/api/webhooks/1519170350854832171/5AGVIzIe15wGKNeeif6oX3_a2paDfbrEv0-X6vUN43G8Pc90-YWCw8mGC73jIIQPIH9Q",
+  "IMP_webhook": "https://discord.com/api/webhooks/1521420463706996756/ZsxuFUZWagBLLy6xSyRFtBgzEY5S7EIcQTIOyZSw5H9-LwZBEp5LfeR3PN8W17ccRNwA",
+  "AR_List": {
+    "LSPD": {
+      "Julian Blackwood": "1521660601716310109",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
     },
-    "SF": {
-      "Tyler Bancroft": "threadid_tyler_SF",
-      "Kim Daegeon": "threadid_kim_SF",
-      "John Doe": "threadid_john_SF"
+    "SFPD": {
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
     },
-    "LV": {
-      "Tyler Bancroft": "threadid_tyler_LV",
-      "Kim Daegeon": "threadid_kim_LV",
-      "John Doe": "threadid_john_LV"
+    "LVPD": {
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
+    },
+    "SASP": {
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
+    },
+    "LSSD": {
+      "Theresia Pevensie": "1521660331842080942",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
     }
   },
-  "AR_List": {
-    "LS": {
-      "Edmund Berchwath": "1521424672074371102",
-      "Kim Daegeon": "threadid_kim_LS",
-      "John Doe": "threadid_john_LS"
+  "PN_List": {
+    "LSPD": {
+      "Julian Blackwood": "thread_id",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
     },
-    "SF": {
-      "Tyler Bancroft": "threadid_tyler_SF",
-      "Kim Daegeon": "threadid_kim_SF",
-      "John Doe": "threadid_john_SF"
+    "SFPD": {
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
     },
-    "LV": {
-      "Tyler Bancroft": "threadid_tyler_LV",
-      "Kim Daegeon": "threadid_kim_LV",
-      "John Doe": "threadid_john_LV"
+    "LVPD": {
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
+    },
+    "SASP": {
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
+    },
+    "LSSD": {
+      "Theresia Pevensie": "1521663481332629594",
+      "Officer Name": "thread_id",
+      "Officer Name": "thread_id"
     }
   },
   "arrest": [
