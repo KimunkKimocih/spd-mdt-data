@@ -73,7 +73,7 @@
     }
   },
   "arrest": [
-    {"nomor": "SPC 101", "judul": "Reckless Driving", "fine": 300, "jail": 2, "note": "-"},
+    {"nomor": "SPC 101", "judul": "Reckless Driving ikeh", "fine": 300, "jail": 2, "note": "-"},
     {"nomor": "SPC 102", "judul": "Driving Without a Valid License", "fine": 150, "jail": 1, "note": "-"},
     {"nomor": "SPC 103", "judul": "Flying Without a Valid License", "fine": 175, "jail": 1, "note": "-"},
     {"nomor": "SPC 104", "judul": "Driving a Lorry Without a Valid License", "fine": 200, "jail": 1, "note": "-"},
