@@ -16,62 +16,6 @@
   "CR_webhook":  "https://discord.com/api/webhooks/1521449967397507102/RLkq0Bmi-aVKJwwLaPql9pz_XKNfKn7aETp2jkMaRnG0EplhUWzO7li-9X76LOvDhDmE",
   "WR_webhook":  "https://discord.com/api/webhooks/1519170350854832171/5AGVIzIe15wGKNeeif6oX3_a2paDfbrEv0-X6vUN43G8Pc90-YWCw8mGC73jIIQPIH9Q",
   "IMP_webhook": "https://discord.com/api/webhooks/1521420463706996756/ZsxuFUZWagBLLy6xSyRFtBgzEY5S7EIcQTIOyZSw5H9-LwZBEp5LfeR3PN8W17ccRNwA",
-  "AR_List": {
-    "LSPD": {
-      "Julian Blackwood": "1521660601716310109",
-      "Kyosuke Raschel": "1523386049710129312",
-      "Diego Ernandez": "1523386298587680989",
-      "Santiago Maxwel": "1524330660725129247",
-      "Alfredo Guilerno": "1524331025570861086"
-    },
-    "SFPD": {
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    },
-    "LVPD": {
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    },
-    "SASP": {
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    },
-    "LSSD": {
-      "Theresia Pevensie": "1521660331842080942",
-      "Daniel Brooks": "1524328920378249237",
-      "Officer Name": "thread_id"
-    }
-  },
-  "PN_List": {
-    "LSPD": {
-      "Julian Blackwood": "thread_id",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    },
-    "SFPD": {
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    },
-    "LVPD": {
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    },
-    "SASP": {
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    },
-    "LSSD": {
-      "Theresia Pevensie": "1521663481332629594",
-      "Officer Name": "thread_id",
-      "Officer Name": "thread_id"
-    }
-  },
   "arrest": [
     {"nomor": "SPC 101", "judul": "Reckless Driving", "fine": 300, "jail": 2, "note": "-"},
     {"nomor": "SPC 102", "judul": "Driving Without a Valid License", "fine": 150, "jail": 1, "note": "-"},
